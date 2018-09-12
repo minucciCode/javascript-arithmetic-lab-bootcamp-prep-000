@@ -15,3 +15,8 @@ function multiply(a, b)
   return a * b 
 }
 multiply(50, 3)
+
+function divide(a, b)
+{
+  return a / b 
+}
