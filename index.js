@@ -26,4 +26,10 @@ function inc(n)
 {
   return n++
 }
-inc(636)
+inc(1)
+
+function dec(n)
+{
+  return n--
+}
+dec(2)
