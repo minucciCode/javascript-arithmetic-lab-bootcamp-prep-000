@@ -36,6 +36,6 @@ dec(974)
 
 function makeInt(n)
 {
-  return parseInt('n', 10)
+  return parseInt('n')
 }
 makeInt('3')
