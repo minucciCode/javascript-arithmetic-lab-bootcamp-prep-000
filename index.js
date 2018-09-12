@@ -24,12 +24,13 @@ divide(4, 2)
 
 function inc(n)
 {
-  return n++
+  return ++n
 }
 inc(476)
 
 function dec(n)
 {
-  return n--
+  return --n
 }
 dec(974)
+
