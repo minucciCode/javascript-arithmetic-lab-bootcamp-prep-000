@@ -20,3 +20,4 @@ function divide(a, b)
 {
   return a / b 
 }
+divide(4, 2)
