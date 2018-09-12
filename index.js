@@ -36,12 +36,12 @@ dec(974)
 
 function makeInt(n)
 {
-  return parseInt('n', 10)
+  return parseInt(n, 10)
 }
-makeInt('290')
+makeInt(290)
 
 function preserveDecimal(n)
 {
-  return parseFloat('n')
+  return parseFloat(n)
 }
-preserveDecimal('80.12399')
+preserveDecimal(80.12399)
