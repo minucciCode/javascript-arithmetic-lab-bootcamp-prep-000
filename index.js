@@ -34,3 +34,8 @@ function dec(n)
 }
 dec(974)
 
+function makeInt(n)
+{
+  return parseInt('n', 10)
+}
+makeInt(3)
