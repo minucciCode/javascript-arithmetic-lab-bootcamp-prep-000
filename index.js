@@ -26,10 +26,10 @@ function inc(n)
 {
   return n++
 }
-inc(1)
+inc(476)
 
 function dec(n)
 {
   return n--
 }
-dec(2)
+dec(974)
