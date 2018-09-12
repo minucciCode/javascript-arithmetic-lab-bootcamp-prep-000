@@ -21,3 +21,9 @@ function divide(a, b)
   return a / b 
 }
 divide(4, 2)
+
+function inc(n)
+{
+  return n++
+}
+inc(3)
